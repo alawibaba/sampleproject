@@ -1,3 +1,5 @@
+Oh gosh, what the heck.
+
 A sample Python project
 =======================
 
